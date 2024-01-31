@@ -1,4 +1,4 @@
-# HR-ANALYTICS-DASHBOARD-USING-Excel
+# HR-Analytics-Dashboard-Using-Excel
 
 
 ## Project Name : <br>
@@ -30,4 +30,4 @@ Drove insightful HR analysis on employee attrition, leveraging a dynamic dashboa
 
 ## Dashboard :
 
-![Dashboard]()
+![Dashboard](https://github.com/chandrashekharmotigi/HR-Analytics-Dashboard-Using-Excel/blob/main/Dashboard%20Image.png)
